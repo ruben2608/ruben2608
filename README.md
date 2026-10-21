@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy estudiante de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR), interesado en el desarrollo web, la programación, la ciberseguridad y las redes. Me gusta crear páginas web modernas, funcionales y atractivas. Actualmente desarrollo proyectos personales y académicos para ampliar mis conocimientos y mejorar mis habilidades.
+💻 Soy estudiante de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR), con un gran interés por la tecnología, la informática y el desarrollo de soluciones digitales.
+
+🌐 Me gusta el desarrollo web, especialmente la creación de páginas modernas, funcionales y atractivas. También me interesan la ciberseguridad, la programación, las redes y la administración de sistemas.
+
+🚀 Actualmente estoy ampliando mis conocimientos, experimentando con nuevas herramientas y desarrollando proyectos tanto personales como académicos.
+
+🎯 Mi objetivo es seguir mejorando mis habilidades, adquirir experiencia y crear proyectos cada vez más completos y profesionales.
+
+📍 Granada, España.
+
